@@ -1,0 +1,100 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9607843137254902,
+    "green": 0.9607843137254902,
+    "red": 0.9607843137254902
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBE5E770-56DE-4EBC-BF80-FDC1CC00A998",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "570747AE-BF95-400E-91BA-115D2EFCC6AE",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "80B3DE33-AB32-4F06-8B53-3858B28A3B14",
+    "height": 16,
+    "width": 16,
+    "x": 6693,
+    "y": 420
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7FE3DACC-4864-429A-8A51-639E65D019F4"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "92462537-EED9-40BF-A9C9-EAEA2EA87A0B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "49782E0C-CC47-4383-8CC9-3363EFA43C1C"
+    },
+    {
+      "class": "group",
+      "id": "C837FDDD-8A01-4385-921E-E80711FE6AC5"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC4E6CC2-04B3-4B12-B7EE-392AB7ACD5D9"
+    }
+  ],
+  "name": "selectOps",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3621CE5A-7442-4C26-9EEC-D9680EC6686B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CD5EA854-C05D-4875-AFD3-1C7962901CB8",
+    "guides": [
+    ]
+  }
+}
